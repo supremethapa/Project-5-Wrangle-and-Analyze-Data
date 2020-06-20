@@ -1,8 +1,8 @@
-# Wrangle and Analyze Data
+# Project 5: Wrangle and Analyze Data
 
 This project will illustrate the data wrangling process.  Data is gathered from a variety of sources and in a variety of formats.  The data will be assessed for its quality and tidiness, and then it will be cleaned.  The dataset that is being wrangled is the tweet archive of Twitter user [@dog_rates](https://twitter.com/dog_rates), also known as WeRateDogs.
 
-## Software Needed
+## REQUIREMENTS
 
 Being able to work in a Jupyter Notebook is required.
 
